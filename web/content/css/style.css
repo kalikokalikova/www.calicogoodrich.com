@@ -134,7 +134,7 @@ ul ul, ul ol, ol ul, ol ol {
 }
 @media screen and (max-width: 768px) {
   .troublesome-monk {
-    display: none; !important;
+    display: none !important;
   }
 }
 @media screen and (max-width: 768px) {
@@ -285,6 +285,7 @@ ul ul, ul ol, ol ul, ol ol {
 
 .fh5co-features .fh5co-feature {
   margin-bottom: 30px;
+  min-height: 540px;
 }
 .fh5co-features .fh5co-feature .fh5co-feature-icon {
   margin-bottom: 30px;
